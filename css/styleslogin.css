@@ -1,0 +1,39 @@
+body{
+
+    background-color: #FAFB7F;
+
+}
+
+
+form{
+
+    background-color: #A3A7D6;
+    height: 65%;
+    width: 25%;
+    border: 4px solid #78909C;
+    border-radius: 20px;
+
+    text-align: center;
+    position: absolute;
+    top: 15%;
+    
+    left: 40%;
+
+    
+}
+
+form div{
+
+    color: white;
+    font-size: 30px;
+    padding-top: 15%;
+    
+    
+
+}
+
+form div input{
+
+    
+    font-size: 23px;
+}

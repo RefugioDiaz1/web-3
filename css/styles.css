@@ -1,0 +1,136 @@
+
+#colorarriba{
+
+    background-color: #FDFD5E !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+
+#boton{
+
+   font-size: 30px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+
+#div1{
+
+    text-align: center ;
+
+}
+
+
+#Hola{
+
+    color: red;
+
+
+}
+
+footer{
+
+    text-align: center;
+    background-color: #2736E4;
+    
+    
+    width: 100%;
+    
+    
+    
+    
+
+}
+
+
+footer a{
+
+text-decoration: none;
+color: white;
+}
+
+footer a:hover{
+
+    text-decoration: none;
+    color: yellow;
+    
+
+}
+
+
+/*#donias{
+
+    /*border: solid 1px black;*/
+
+
+.todo{
+
+    font-size: 20px;
+text-align: center;
+    width: 100%;
+	max-width: 1380px;
+	margin: auto;
+	margin-bottom: 50px;
+    
+
+    /* Poner el borde circular */
+	border-radius: 15px;
+
+    align-items: center;
+    border: 4px solid #78909C;
+    background-color:cornsilk;
+
+}
+
+.titulo{
+    padding-top: 30px;
+    text-align: center;
+
+}
+
+ div #imagen{
+
+    align-content: left;
+
+}
+
+body{
+
+    background-color: azure;
+
+}
+
+
+.imagen{
+
+        text-align: left;
+        
+        
+
+}
+
+
+
+h5{
+
+    text-align: center;
+    
+    font-size: 25px;
+    padding-top: 15px;
+    color: blue;
+    font-weight: bolder;
+
+
+}
+
+
+#colorarriba #top{
+
+        padding-top: 6px;
+        padding-left: 15%;
+
+}
+
+
